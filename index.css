@@ -165,3 +165,7 @@ header a:hover {
     border-radius: 10px;
 }
 
+.link-button:hover{
+    background-color: white;
+    color: #161616;
+}
